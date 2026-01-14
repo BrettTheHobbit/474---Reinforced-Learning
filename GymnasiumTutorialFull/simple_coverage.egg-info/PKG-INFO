@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: simple_coverage
+Version: 1.0
+Author: Mateus Karvat
+Requires-Dist: gymnasium
+Requires-Dist: pygame
+Requires-Dist: tensorboard
+Dynamic: author
+Dynamic: requires-dist

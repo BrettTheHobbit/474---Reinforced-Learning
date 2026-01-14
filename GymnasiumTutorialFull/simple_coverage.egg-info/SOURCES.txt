@@ -1,0 +1,10 @@
+README.md
+setup.py
+simple_coverage/__init__.py
+simple_coverage/complete_env.py
+simple_coverage/env.py
+simple_coverage.egg-info/PKG-INFO
+simple_coverage.egg-info/SOURCES.txt
+simple_coverage.egg-info/dependency_links.txt
+simple_coverage.egg-info/requires.txt
+simple_coverage.egg-info/top_level.txt
